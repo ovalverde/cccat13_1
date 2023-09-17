@@ -1,5 +1,6 @@
 Code Smells:
 
+
 1 - Nomes ruins (variável, método, classe)
 
 * renomear variável
